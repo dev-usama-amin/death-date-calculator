@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Death Age Calculator</string>
+    <string name="q1">1. How old are you?</string>
+    <string name="q2">2. Are you a smoker?</string>
+    <string name="q3">3. Are you a drinker?</string>
+    <string name="q4">4. Medical history?</string>
+    <string name="q5">5. 1–10 scale of how happy you are?</string>
+    <string name="q6">6. Do you have healthy relationship or are you a loner?</string>
+    <string name="q7">7. How many times a week do you exercise?</string>
+    <string name="q8">8. How many hours a night do you sleep?</string>
+
+    <string-array name="options">
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+
+    <string-array name="scale">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="relation">
+        <item>In RelationShip</item>
+        <item>Loner</item>
+    </string-array>
+
+</resources>
